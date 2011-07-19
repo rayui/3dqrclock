@@ -1,0 +1,21 @@
+body {
+	background-color:#000;
+	text-align:center;
+	font-family:arial, verdana, sans-serif;
+	color:#fff;
+}
+
+h1 {
+	font-size:3em;
+}
+
+a {
+	color:#999;
+}
+
+#example {
+	display:block;
+	width:720px;
+	height:360px;
+	margin:0 auto 50px;
+}
